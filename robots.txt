@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihusaete.github.io/Gip/sitemap_index.txt
+Sitemap: https://ihusaete.github.io/trL/sitemap_index.txt
+Sitemap: https://ihusaete.github.io/uZm/sitemap_index.txt
+Sitemap: https://ihusaete.github.io/ycN/sitemap_index.txt
